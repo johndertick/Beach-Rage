@@ -10,3 +10,5 @@
 The game was developed as a project aimed at expanding our programming skills. Targeted at young gamers intrigued by fighting games, it offers straightforward yet enjoyable gameplay. While combat is the main focus, players are encouraged to strategize and utilize potions wisely to evade defeat.
 
 # Screenshots
+
+![Title Screen]https://raw.githubusercontent.com/johndertick/Beach-Rage/main/assets/beach_rage_gameplay_screen.jpg
