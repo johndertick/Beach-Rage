@@ -1,4 +1,4 @@
-# Beach-Rage
+# Beach-Rage!
 
 # About
 
