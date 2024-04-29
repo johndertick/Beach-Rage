@@ -12,4 +12,4 @@ The game was developed as a project aimed at expanding our programming skills. T
 # Screenshots
 
 ![Title Screen](https://raw.githubusercontent.com/johndertick/Beach-Rage/main/assets/beach_rage_gameplay_screen.png)
-![Menu Screen](https://raw.githubusercontent.com/johndertick/Beach-Rage/main/assets/beach_rage_menu_screen.jpg)
+![Menu Screen](https://raw.githubusercontent.com/johndertick/Beach-Rage/main/assets/beach_rage_menu_screen.png)
