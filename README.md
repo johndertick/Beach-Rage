@@ -7,4 +7,6 @@
 
 # Goal
 
+The game was developed as a project aimed at expanding our programming skills. Targeted at young gamers intrigued by fighting games, it offers straightforward yet enjoyable gameplay. While combat is the main focus, players are encouraged to strategize and utilize potions wisely to evade defeat.
+
 # Screenshots
